@@ -1,0 +1,35 @@
+body{
+    width: 1000px;
+    height: 3508px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid black;
+}
+h2{
+    text-align: center;
+}
+.head h1{
+    text-align: center;
+    height: 50px;
+    width: 1000px;
+}
+.address {
+    margin-left: 10px;
+}
+.address p{
+    margin: 10px;
+    
+}
+.social_media a{
+    display: inline;
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+h3{
+    background-color: gray;
+    margin: 10px;
+}
+p{
+    margin-left: 10px;
+    margin-top: 5px;
+}
